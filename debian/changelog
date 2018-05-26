@@ -1,0 +1,12 @@
+audioflingerglue (0.0.7-1) UNRELEASED; urgency=medium
+
+  * New upstream release 
+  * 
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 26 May 2018 21:31:08 +0200
+
+audioflingerglue (0.0.1) vivid; urgency=medium
+
+  * Initial release.
+
+ -- Marius <mariogrius@ubports.com>  Fri, 23 Dec 2016 14:00:57 +0100
