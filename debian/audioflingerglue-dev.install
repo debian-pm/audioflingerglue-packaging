@@ -1,1 +1,3 @@
-audioflingerglue.h /usr/share/audioflingerglue
+
+audioflingerglue.h /usr/include/audioflingerglue
+hybris.c /usr/share/audioflingerglue
